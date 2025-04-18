@@ -1,0 +1,8 @@
+# Ignore virtual env
+.venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
